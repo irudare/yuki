@@ -1,0 +1,8 @@
+<?php
+
+$auth = "BASIC ODJmM2I5ODFhN2ExNDA0MDgyMDZkNmY0NGZhMDM2YjA6Y2VkZGRiNjM3NjY2MTZlNTcxYThkMzZlNGI1ZmFlYzA=";
+$ts = "1597055179861";
+$index = "16";
+$cookie = "u=65055130;n=0000000061d3b181ffffffff8c8e8339";
+
+?>
