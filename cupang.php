@@ -1,8 +1,8 @@
 <?php
-echo "\033[1;32mCreator \033[31;1m: \033[36;1mIndraYudaAdiSaputra
-\033[1;32mChannel \033[31;1m: \033[36;1mBeakEight
+echo "\033[1;32mKuu \033[31;1m: \033[36;1mMenangid
+\033[1;32mMaa \033[31;1m: \033[36;1mYuu
 
-\033[37;1mBantu Dukung Channel Saya Dengan Subscribe Ya :)
+\033[37;1mMembayangkan
 \n\n\n";
 
 echo "\033[1;32mMau Nuyul Akun Ke Berapa\033[0;36m...\033[31;1m?\033[36;1m ";
